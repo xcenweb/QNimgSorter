@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+output/
+__pycache__/
+main.spec
+writeName.py
+username.json
+ttf.ttf
+test.py
