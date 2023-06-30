@@ -5,14 +5,14 @@
 
 ## 项目用到的库
 
-PIL
-wget
-numpy
-imghdr
-shutil
-tkinter
-threading
-freeze_support
+- PIL
+- wget
+- numpy
+- imghdr
+- shutil
+- tkinter
+- threading
+- freeze_support
 
 
 ## 挖新的坑
